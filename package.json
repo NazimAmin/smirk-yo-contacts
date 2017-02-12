@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "bluebird": "^3.4.7",
+        "bug-killer": "^4.3.0",
+        "googleapis": "^16.1.0",
+        "lien": "^2.2.2",
+        "node-fetch": "^1.6.3",
+        "opn": "^4.0.2",
+        "r-json": "^1.2.5",
+        "randomcolor": "^0.4.4",
+        "images": "zhangyuanwei/node-images"
+    },
+    "devDependencies": {
+        "flow-bin": "^0.38.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
