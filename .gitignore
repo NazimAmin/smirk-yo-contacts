@@ -71,7 +71,7 @@ bower_components
 .temp
 .tmp
 # creds
-cred.json
+#cred.json
 i.py
 .eslintrc
 .eslintrc.js
